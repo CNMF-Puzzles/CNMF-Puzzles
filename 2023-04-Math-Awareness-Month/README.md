@@ -1,4 +1,4 @@
-## CNMF Math Awareness Month Crypto Challenege
+## CNMF Math Awareness Month Crypto Challenge
 
 ### Stay tuned as challeneges will be posted shortly
 
