@@ -1,6 +1,8 @@
 ## CNMF Math Awareness Month Crypto Challenge
 
-### Stay tuned as challenges will be posted shortly
+### Challenges will be released daily (weekdays normally) around midnight.
+
+### Save your answers and don't share them just yet.  You'll want to have them ready for the finale!
 
 #### If you look hard enough you might even find one already up ❤️
 
