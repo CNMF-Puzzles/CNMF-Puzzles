@@ -9,5 +9,7 @@
   - This challenge is a cake walk, but not all of them will be.
 * Challenge 03 - What with dates
   - A ghost of the past comes back to play in this challenge.
+* Challenge 04 - riscvbiz.out
+  - Find the right inputs and crack the code in this reversing and crypto challenge
 
 ### Challenges will be released daily (weekdays normally) around midnight.
