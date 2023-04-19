@@ -13,5 +13,7 @@
   - Find the right inputs and crack the code in this reversing and crypto challenge.
 * Challenge 05 - What in the PCAP is this
   - Someone is trying to send sneaky signals to their friend over the wire.
+* Challenge 06 - Cipher Crazy
+  - Okay, so sometimes we get a bit extra with ciphers. 
 
 ### Challenges will be released daily (weekdays normally) around midnight.
