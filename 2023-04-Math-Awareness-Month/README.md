@@ -15,5 +15,7 @@
   - Someone is trying to send sneaky signals to their friend over the wire.
 * Challenge 06 - Cipher Crazy
   - Okay, so sometimes we get a bit extra with ciphers. 
+* Challenge 07 - XORians Gate
+  - Whats a crypto challenge without some XOR and Vigenere?
 
 ### Challenges will be released daily (weekdays normally) around midnight.
