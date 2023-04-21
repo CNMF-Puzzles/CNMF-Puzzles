@@ -17,5 +17,10 @@
   - Okay, so sometimes we get a bit extra with ciphers. 
 * Challenge 07 - XORians Gate
   - Whats a crypto challenge without some XOR and Vigenere?
+* Challenge 08 - Crypto Cowboy
+  - YEEE and i cannot stress this enough HAAAWWWW.  Lets end this set of challenges on a high note! 
+    You can't rely on cryptography alone to keep your secrets safe. 
+	You've gotta be smart about how you use it, and always be on the lookout for potential weaknesses in your system. 
+	Because if there's one thing cowboys know, it's that no system is foolproof.
 
 ### Challenges will be released daily (weekdays normally) around midnight.
