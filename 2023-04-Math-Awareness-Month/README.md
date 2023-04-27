@@ -1,6 +1,7 @@
 ## CNMF Math Awareness Month Crypto Challenge
 
-## All primary challenges have been released! Finish those hard puzzles or standby with all of your solutions until 26 April for the finale challenge!
+## All primary challenges have been released! Finish those hard puzzles or standby with all of your solutions until 27 April for the finale challenge!
+Getting the Finale all set has taken a moment but we will be releasing it shortly. Thank you for you patience and in the meantime keep cracking at those unfinished challenges!
 
 ### Challenges:
 * Challenge 01
