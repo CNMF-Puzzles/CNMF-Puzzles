@@ -1,6 +1,7 @@
 ## CNMF Math Awareness Month Crypto Challenge
 
-## Save your answers and don't share them just yet.  You'll want to have them ready for the finale!
+## All primary challenges have been released! Finish those hard puzzles or standby with all of your solutions until 27 April for the finale challenge!
+Getting the Finale all set has taken a moment but we will be releasing it shortly. Thank you for you patience and in the meantime keep cracking at those unfinished challenges!
 
 ### Challenges:
 * Challenge 01
@@ -23,4 +24,3 @@
 	You've gotta be smart about how you use it, and always be on the lookout for potential weaknesses in your system. 
 	Because if there's one thing cowboys know, it's that no system is foolproof.
 
-### Challenges will be released daily (weekdays normally) around midnight.
