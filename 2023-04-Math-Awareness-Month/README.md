@@ -1,7 +1,7 @@
 ## CNMF Math Awareness Month Crypto Challenge
 
 ## All primary challenges have been released! Finish those hard puzzles or standby with all of your solutions until 27 April for the finale challenge!
-Getting the Finale all set has taken a moment but we will be releasing it shortly. Thank you for you patience and in the meantime keep cracking at those unfinished challenges!
+The Finale is LIVE! Time to put those answers to use and claim your victory!
 
 ### Challenges:
 * Challenge 01
@@ -23,4 +23,8 @@ Getting the Finale all set has taken a moment but we will be releasing it shortl
     You can't rely on cryptography alone to keep your secrets safe. 
 	You've gotta be smart about how you use it, and always be on the lookout for potential weaknesses in your system. 
 	Because if there's one thing cowboys know, it's that no system is foolproof.
-
+* Challenge 09 - The Finale
+	Just because you've solved all the puzzles doesn't mean the learning is over.
+	Here we present the final puzzle in the form a a jupyter notebook implementing Shamir Secrets.
+	Plug your challenge solutions in and run the notebook to see if you have solved the puzzles correctly
+	If you have, a final message will be displayed to the victors.  Thank you for participating in this challenge series with us and we can't wait for the next one!
